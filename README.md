@@ -3,7 +3,7 @@
 #This is a Special Date.
 #　　❤　　　❤
 #❤　　　❤　　　❤
-#❤ Girl'name　❤
+#❤　　a-name　❤
 #　　❤　　　❤
 #　　　　❤
 #This Is A Program To Tell A Girl That I Was Like Her.But I Was 
